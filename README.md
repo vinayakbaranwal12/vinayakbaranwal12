@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vinayak Baranwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 👋 Hi, I’m @vinayakbaranwal12
+- 👀 I’m interested in Python3 and Javascript
+- 🌱 I’m currently learning NLP and AI-Tensorflow
+- 💞️ I’m looking to collaborate on NLP Based Project
+- 📫 reach me vinayakbaranwal12@gmail.com
+- I am stydying B.Tech CSE
+- Aspiring Developer
+
+
 <p align="left"> <a href="https://twitter.com/vinayakb69" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakb69?logo=twitter&style=for-the-badge" alt="vinayakb69" /></a> </p>
 
 - 📫 How to reach me **vinayakbaranwal12@gmail.com / starkmk85@proton.me**
