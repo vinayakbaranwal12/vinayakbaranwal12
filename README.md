@@ -27,7 +27,7 @@ Hi there, I'm Vinayak Baranwal, a Full Stack Developer and System Administrator.
 
 
 ## Buy me a Coffee
-<p align="center"> <a href="https://paypal.me/baranwalvinayak" target="blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a> &nbsp; <a href="bitcoin:bc1qzggr64zhsy8m50hatadsd9y5rn4tza8as85n63" target="blank"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="vinayakb69" /></a></p>
+<p align="center"> <a href="https://paypal.me/baranwalvinayak" target="blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a> &nbsp; <a href="https://commerce.coinbase.com/checkout/787f8c7c-4705-470c-b7c5-8f5064bd5cb3" target="blank"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="vinayakb69" /></a></p>
 
 ##
 <h3 align="center">Languages and Tools:</h3>
