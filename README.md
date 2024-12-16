@@ -17,7 +17,10 @@
 -->
 
 <p align="center"> <a href="https://www.linkedin.com/in/vinayakbaranwal12" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vinayakbaranwal12" /></a> &nbsp; <a href="mailto:starkmk85@proton.me" target="blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="starkmk85@proton.me" /></a> &nbsp; <a href="https://instagram.com/vinayakbaranwal9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <!-- &nbsp;<a href="https://hypweb.in/vinayakportfolio" rel="nofollow"><img src="https://camo.githubusercontent.com/5ca8cb0e83604fdfb3cb339938a06d51d61d38ccf32649c7e35f9311f128e35e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3761356334623f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge" style="max-width: 100%;">
-  </a>--> </p>
+  </a>-->
+<a href="https://www.voxfor.com/author/vinayak-baranwal/" target="blank">
+  <img src="https://img.shields.io/badge/VoxFor%20Author%20(Lifetime)-FF5722?style=for-the-badge&logo=readme&logoColor=white" alt="Author at VoxFor Lifetime" />
+</a></p>
 
 <!-- - 📫 How to reach me **vinayakbaranwal12@gmail.com / starkmk85@proton.me**-->
 
@@ -27,7 +30,13 @@ Hi there, I'm Vinayak Baranwal, a Full Stack Developer and System Administrator.
 
 
 ## Buy me a Coffee
-<p align="center"> <a href="https://paypal.me/baranwalvinayak" target="blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a> &nbsp; <a href="https://commerce.coinbase.com/checkout/787f8c7c-4705-470c-b7c5-8f5064bd5cb3" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="vinayakb69" /></a></p>
+<p align="center"> <a href="https://paypal.me/baranwalvinayak" target="blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" /></a> &nbsp; <p align="center">
+  <strong>BINANCE ID:</strong> 305916389<br>
+  <strong>Name:</strong> Stark_Inc<br><br>
+  <strong>USDT TRC 20:</strong> TT9ywzStYQFhP7ACLZbAE4du2DWccwjeiY<br>
+  <strong>USDT BEP20:</strong> 0x40b36ed4d4771377b3958e8626bd15063b2178ff<br>
+  <strong>USDT ERC20:</strong> 0x40b36ed4d4771377b3958e8626bd15063b2178ff
+</p></p>
 
 ##
 <h3 align="center">Languages and Tools:</h3>
