@@ -16,11 +16,9 @@
 - Aspiring Developer
 -->
 
-<p align="center"> <a href="https://www.linkedin.com/in/vinayakbaranwal12" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vinayakbaranwal12" /></a> &nbsp; <a href="mailto:starkmk85@proton.me" target="blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="starkmk85@proton.me" /></a> &nbsp; <a href="https://instagram.com/vinayakbaranwal9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <!-- &nbsp;<a href="https://hypweb.in/vinayakportfolio" rel="nofollow"><img src="https://camo.githubusercontent.com/5ca8cb0e83604fdfb3cb339938a06d51d61d38ccf32649c7e35f9311f128e35e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3761356334623f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge" style="max-width: 100%;">
-  </a>-->
-<a href="https://www.voxfor.com/author/vinayak-baranwal/" target="blank">
-  <img src="https://img.shields.io/badge/VoxFor%20Author%20(Lifetime)-FF5722?style=for-the-badge&logo=readme&logoColor=white" alt="Author at VoxFor Lifetime" />
-</a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/vinayakbaranwal12" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vinayakbaranwal12" /></a> &nbsp; <a href="mailto:starkmk85@proton.me" target="blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="starkmk85@proton.me" /></a> &nbsp; <a href="https://instagram.com/vinayakbaranwal9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <!--a href="https://hypweb.in/vinayakportfolio" rel="nofollow"><img src="https://camo.githubusercontent.com/5ca8cb0e83604fdfb3cb339938a06d51d61d38ccf32649c7e35f9311f128e35e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3761356334623f7374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/Portfolio-7a5c4b?style=for-the-badge" style="max-width: 100%;">
+</a-->
+</p>
 
 <!-- - 📫 How to reach me **vinayakbaranwal12@gmail.com / starkmk85@proton.me**-->
 
